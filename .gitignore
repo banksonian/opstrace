@@ -46,3 +46,4 @@ packages/cli/src/buildinfo.ts
 
 .idea
 *.iml
+*.jwt
